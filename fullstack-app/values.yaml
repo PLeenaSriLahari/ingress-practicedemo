@@ -43,7 +43,7 @@ backend:
 # Frontend Configuration
 # =====================
 frontend:
-  image: pleenasrilahari/ingress-practice-backendh:latest
+  image: pleenasrilahari/ingress-practice-frontendh:latest
   replicas: 2
   port: 80
   nodePort: 30008
